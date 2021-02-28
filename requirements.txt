@@ -1,0 +1,14 @@
+bcrypt==3.1.4
+cffi
+click
+Flask==0.12.2
+Flask-Bcrypt==0.7.1
+flask-restplus==0.10.1
+Flask-Script==2.0.6
+itsdangerous==0.24
+jsonschema==2.6.0
+Mako==1.0.7
+Werkzeug==0.16.1
+pandas
+scikit_learn==0.23.2
+https://files.pythonhosted.org/packages/fc/c9/f58220ac44a1592f79a343caba12f6837f9e0c04c196176a3d66338e1ea8/joblib-0.17.0-py3-none-any.whl
