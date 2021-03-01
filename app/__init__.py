@@ -12,4 +12,4 @@ api = Api(blueprint,
           description='a Jurimetric api with flask restplus web service'
           )
 
-api.add_namespace(ia_ns, path='/hello')
+api.add_namespace(ia_ns, path='/Predict')

@@ -57,7 +57,7 @@ def jsonfy(df):
     return json.dumps(parsed, indent=4)
 
 @api.route('/')
-class Hello(Resource):
+class Predict(Resource):
     @api.response(201, 'IA predicted.')
     @api.doc('predict value')
     @api.expect(_model, validate=True)
